@@ -2,7 +2,8 @@
 
 ### Neste repositório consta um desafio do bootcamp da DIO, no qual precisamos criar o primeiro repositório do GIT/Github. E nele conta minhas anotações em relação ao meu processo de aprendizado inicial em GIT/Github, e também colocando em links materiais que me auxiliaram nesse conteúdo.
 
-![Git e Github!](C:\Users\Rosenir\Documents\BOOTCAMPS\Git\Git_imagem)
+![git_imagem](https://user-images.githubusercontent.com/105572464/174503047-b4393549-dc55-45c4-9099-922f5029e3be.png)
+
 
 ## Instalando o Git
 
@@ -11,9 +12,6 @@
 ## Criando o repositório no GitHub
 ### A criação de um repositório pode ser feita fazendo login no site do GitHub, e clicar em New Repositoy, onde precisará nomear e descrevê-lo, após isto clicar em Create Repository. Como segue na imagem: 
 
-
-
-https://user-images.githubusercontent.com/105572464/174503006-f7c1a58b-6f53-4243-9e23-bb74c870c655.mp4
 
 
 
