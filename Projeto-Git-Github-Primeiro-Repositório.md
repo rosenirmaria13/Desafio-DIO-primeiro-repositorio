@@ -16,9 +16,13 @@
 
 ![Design sem nome (2)](https://user-images.githubusercontent.com/105572464/174503267-35cc1dbc-a31e-4bef-8ca0-6af732094ff5.jpg)
 
+## Inicializar um repositório na máquina
 
+### Para inicializar o meu repositório a partir da minha máquina, abri o Git Bash e fui até a pasta onde se encontra o meu projeto, digitei git init e dei enter.
 
+## Sincronizando o Git e o GitHub
 
+### Inicialmente para saber se há alterações no projeto em que estou trabalhando digito **status**, e o Git irá sugerir adicionar as alterações utilizando **add .** E ao dá **status** novamente, o Git mostrará que o argivo foi adicionado. E nesse caso para guardar de modo permanente precisar digitar **commit - m "mensagem para comitar"**. Após esse processo, digitei **git push origin main** e o repositório será enviado para o GitHub.
 
 
 
