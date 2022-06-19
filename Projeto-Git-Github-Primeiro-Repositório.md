@@ -10,11 +10,12 @@
 ### Seguindo as instruções da aula, fiz o download do Git no site oficial e baixei a versão mais recente de maio de 2022, a 2.36.1. 
 
 ## Criando o repositório no GitHub
-### A criação de um repositório pode ser feita fazendo login no site do GitHub, e clicar em New Repositoy, onde precisará nomear e descrevê-lo, após isto clicar em Create Repository. Como segue abaixo: 
+### A criação de um repositório pode ser feita fazendo login no site do GitHub, e clicar em *New Repositoy*, onde precisará nomear e descrevê-lo, após isto clicar em *Create Repository*. Como segue abaixo: 
 
 ![Design sem nome](https://user-images.githubusercontent.com/105572464/174503188-9a47b259-e95e-443f-8f53-32d8d54ebc85.jpg)
 
-![Design sem nome (1)](https://user-images.githubusercontent.com/105572464/174503191-0fdc6a8f-890c-49c3-a505-4f200e727b57.jpg)
+![Design sem nome (2)](https://user-images.githubusercontent.com/105572464/174503267-35cc1dbc-a31e-4bef-8ca0-6af732094ff5.jpg)
+
 
 
 
